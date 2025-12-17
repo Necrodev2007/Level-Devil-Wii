@@ -12,13 +12,15 @@ I promise to publish the game's source code in a few days. For now, I won't beca
 
  INSTRUCTIONS
 
--Download the ZIP file, extract it, and copy the folder named "Devil" to the "apps" folder on your Wii's SD card.
+- Download the ZIP file, extract it, and copy the folder named "Devil" to the "apps" folder on your Wii's SD card.
+
+- The game works on physical hardware and also on an emulator.
 
 CONTROLS
 
--Use the Wii Remote horizontally.
+- Use the Wii Remote horizontally.
 
--D-Pad = Move
+- D-Pad = Move
 
 Button 2 = Jump
 
